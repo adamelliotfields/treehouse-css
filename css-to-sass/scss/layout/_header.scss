@@ -1,0 +1,16 @@
+.main-header {
+  @extend %centered;
+  padding-top: 170px;
+  height: 850px;
+
+  background: linear-gradient($color-primary, transparent 90%),
+              linear-gradient(0deg, $color-body, transparent),
+              $color-primary url('#{$path-img}/mountains.jpg') no-repeat center;
+
+  background-size: cover;
+  color: white;
+  @media #{$break-narrow} {
+    max-height: 380px;
+    padding: 50px 25px 0;
+  }
+}

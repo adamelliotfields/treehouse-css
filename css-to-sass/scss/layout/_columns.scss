@@ -1,0 +1,19 @@
+/* FLOATED COLUMNS */
+
+.tips {
+  @extend %columns;
+  float: left;
+  @media #{$break-narrow} {
+    float: none;
+    width: 100%;
+  }
+}
+
+.resorts {
+  @extend %columns;
+  float: right;
+  @media #{$break-narrow} {
+    float: none;
+    width: 100%;
+  }
+}

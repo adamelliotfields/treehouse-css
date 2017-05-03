@@ -13,7 +13,11 @@
 **[CSS Transitions and Transforms](https://github.com/adamelliotfields/treehouse-css/tree/master/css-transitions-and-transforms)** - [Demo 1](https://adamelliotfields.github.io/treehouse-css/css-transitions-and-transforms/activate-3d-space/index.html) [2](https://adamelliotfields.github.io/treehouse-css/css-transitions-and-transforms/build-a-3d-cube/index.html) [3](https://adamelliotfields.github.io/treehouse-css/css-transitions-and-transforms/rotating-elements/index.html)  
 **[Bootstrap 4 Basics](https://github.com/adamelliotfields/treehouse-css/tree/master/bootstrap-4-basics)** - [Demo](https://adamelliotfields.github.io/treehouse-css/bootstrap-4-basics/index.html)  
 **[CSS to Sass](https://github.com/adamelliotfields/treehouse-css/tree/master/css-to-sass)** - [Demo](https://adamelliotfields.github.io/treehouse-css/css-to-sass/index.html)  
-**[Modular CSS with Sass](https://github.com/adamelliotfields/treehouse-css/tree/master/modular-css-with-sass)** - [Demo](https://adamelliotfields.github.io/treehouse-css/modular-css-with-sass/index.html)
+**[Modular CSS with Sass](https://github.com/adamelliotfields/treehouse-css/tree/master/modular-css-with-sass)** - [Demo](https://adamelliotfields.github.io/treehouse-css/modular-css-with-sass/index.html)  
 
+### Other Topics
+[HTML](https://github.com/adamelliotfields/treehouse-html)  
+[JavaScript](https://github.com/adamelliotfields/treehouse-javascript)  
+[Databases](https://github.com/adamelliotfields/treehouse-db)  
 
 *For a full list of all my completed courses, check out my Treehouse [profile](https://teamtreehouse.com/adamelliotfields)*

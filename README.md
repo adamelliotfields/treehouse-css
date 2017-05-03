@@ -3,9 +3,7 @@
 ###### A collection of my completed CSS projects at [Treehouse](https://teamtreehouse.com).
 
 
-## Topics
-
-#### CSS
+## Courses
 
 **[CSS Basics](https://github.com/adamelliotfields/treehouse-css/tree/master/css-basics)** - [Demo](https://adamelliotfields.github.io/treehouse-css/css-basics/index.html)  
 **[CSS Selectors](https://github.com/adamelliotfields/treehouse-css/tree/master/css-selectors)** - [Demo 1](https://adamelliotfields.github.io/treehouse-css/css-selectors/attribute-selectors/index.html) [2](https://adamelliotfields.github.io/treehouse-css/css-selectors/begins-with-and-ends-with/index.html) [3](https://adamelliotfields.github.io/treehouse-css/css-selectors/element-states-pseudo-classes/index.html) [4](https://adamelliotfields.github.io/treehouse-css/css-selectors/first-child-and-last-child/index.html) [5](https://adamelliotfields.github.io/treehouse-css/css-selectors/first-line-and-first-letter/index.html) [6](https://adamelliotfields.github.io/treehouse-css/css-selectors/nth-child/index.html) [7](https://adamelliotfields.github.io/treehouse-css/css-selectors/root-and-target/index.html)  

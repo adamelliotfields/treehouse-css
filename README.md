@@ -1,7 +1,6 @@
 ![Treehouse](treehouse.png)
 
-###### A collection of my completed CSS projects at [Treehouse](https://teamtreehouse.com).
-
+> A collection of my completed CSS projects at [Treehouse](https://teamtreehouse.com).
 
 ## Courses
 
@@ -16,8 +15,12 @@
 **[Modular CSS with Sass](https://github.com/adamelliotfields/treehouse-css/tree/master/modular-css-with-sass)** - [Demo](https://adamelliotfields.github.io/treehouse-css/modular-css-with-sass/index.html)  
 
 ### Other Topics
+
 [HTML](https://github.com/adamelliotfields/treehouse-html)  
 [JavaScript](https://github.com/adamelliotfields/treehouse-javascript)  
+[Node.js](https://github.com/adamelliotfields/treehouse-node)  
+[AngularJS](https://github.com/adamelliotfields/treehouse-angular)  
+[React](https://github.com/adamelliotfields/treehouse-react)  
 [Databases](https://github.com/adamelliotfields/treehouse-db)  
 
-*For a full list of all my completed courses, check out my Treehouse [profile](https://teamtreehouse.com/adamelliotfields)*
+*For a full list of all my completed courses, check out my Treehouse [profile](https://teamtreehouse.com/adamelliotfields).*  
